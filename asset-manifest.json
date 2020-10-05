@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/404-not-found-reactjs/static/css/main.fa4108bc.chunk.css",
+    "main.js": "/404-not-found-reactjs/static/js/main.38c26737.chunk.js",
+    "main.js.map": "/404-not-found-reactjs/static/js/main.38c26737.chunk.js.map",
+    "runtime-main.js": "/404-not-found-reactjs/static/js/runtime-main.b7393269.js",
+    "runtime-main.js.map": "/404-not-found-reactjs/static/js/runtime-main.b7393269.js.map",
+    "static/js/2.2592a01a.chunk.js": "/404-not-found-reactjs/static/js/2.2592a01a.chunk.js",
+    "static/js/2.2592a01a.chunk.js.map": "/404-not-found-reactjs/static/js/2.2592a01a.chunk.js.map",
+    "index.html": "/404-not-found-reactjs/index.html",
+    "precache-manifest.a60d3ae0ff7202ca49edf6e81195d1a9.js": "/404-not-found-reactjs/precache-manifest.a60d3ae0ff7202ca49edf6e81195d1a9.js",
+    "service-worker.js": "/404-not-found-reactjs/service-worker.js",
+    "static/css/main.fa4108bc.chunk.css.map": "/404-not-found-reactjs/static/css/main.fa4108bc.chunk.css.map",
+    "static/js/2.2592a01a.chunk.js.LICENSE.txt": "/404-not-found-reactjs/static/js/2.2592a01a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7393269.js",
+    "static/js/2.2592a01a.chunk.js",
+    "static/css/main.fa4108bc.chunk.css",
+    "static/js/main.38c26737.chunk.js"
+  ]
+}
